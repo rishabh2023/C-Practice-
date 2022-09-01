@@ -73,6 +73,45 @@ using namespace std;
         }
     }
     
+     namespace c{
+         void sel(int t){
+             
+         if (t == 1){
+            void cal(int a,int b){
+           
+            int x = r**2;
+              cout << "Area of Circle ";
+            cout<<x<<endl;
+            
+         }
+         cal();
+        
+        }else if{
+            
+             void cal(int a,int b){
+           
+            int x = 1/2*a*b;
+              cout << "Area of Triangle ";
+            cout<<x<<endl;
+            
+            
+            
+        }
+         cal();
+         
+        }  void cal(int a,int b){
+           
+            int x = a*b;
+              cout << "Area of rectangle";
+            cout<<x<<endl;
+        }
+         cal();
+         }
+    }
+    
+    
+    
+    
     
     int main(){
         int a;
